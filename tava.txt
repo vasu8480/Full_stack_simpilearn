@@ -144,14 +144,29 @@ week-1:
 				*outcome
 
 Week-3
-#day1
-#meetings 
-#You are leading a team on a critical task and the team is facing numerous challenges which they bring it up in team meeting, they also state that the customer is not happy.
-Conduct a meeting with the team and discuss with them the problem, and ensure them to understand the customer needs is taken seriously
-a.hi everyone, as you all know that we are working on a critical task and we are facing some challenges.
-b.our customer is not happy with our work and he is not satisfied with our work.
-c.we have to understand the customer needs and we have to work on it.
-d.we have to work on it and we have to complete the task as soon as possible.
-Ex-facing issues in database issues in aws servers.
-we are updtaed the database and we are working on it.
-and we increased the servers and we are working on it.
+	#day1
+		#meetings 
+		#You are leading a team on a critical task and the team is facing numerous challenges which they bring it up in team meeting, they also state that the customer is not happy.
+		Conduct a meeting with the team and discuss with them the problem, and ensure them to understand the customer needs is taken seriously
+		a.hi everyone, as you all know that we are working on a critical task and we are facing some challenges.
+		b.our customer is not happy with our work and he is not satisfied with our work.
+		c.we have to understand the customer needs and we have to work on it.
+		d.we have to work on it and we have to complete the task as soon as possible.
+		Ex-facing issues in database issues in aws servers.
+		we are updtaed the database and we are working on it.
+		and we increased the servers and we are working on it.
+
+	#day2
+		#meeting points to remebmer
+		1.made everyone speaking and equal
+		2.paciencely listen to everyone
+		3.dont interrupt anyone
+		4.dont be rude
+		5.dont be judgemental
+		6.dont be overconfident
+		7.remain to open new ideas
+		8.proper open communication
+		9.make notes of actions and decisions
+		10.attacking the problem not the person
+
+		
