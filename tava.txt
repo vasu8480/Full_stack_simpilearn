@@ -185,3 +185,6 @@ Week-3
 		2. closed collaboration - only the members of the collaboration can contribute to the collaboration.
 		3. cross functional collaboration - it is the process of collaborating with people from different departments.
 		4. cross cultural collaboration - it is the process of collaborating with people from different cultures.
+
+	#without using I JAM
+	
