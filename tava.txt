@@ -170,4 +170,18 @@ Week-3
 		10.attacking the problem not the person
 
 	#day3
-		
+		#what is collaboration
+		- collaboration is the process of two or more people or organizations working together to realize or achieve something successfully.
+
+		#why collaboration is important
+		- collaboration is important because it helps to achieve the goals and objectives of the organization.
+		- it helps to achieve the goals and objectives of the organization.
+		- it make the work easy and fast.
+		- it gets motivation and support from others.
+
+		#styles of collaboration
+		- there are 4 styles of collaboration
+		1. open collaboration - any one can join the collaboration and can contribute to the collaboration.
+		2. closed collaboration - only the members of the collaboration can contribute to the collaboration.
+		3. cross functional collaboration - it is the process of collaborating with people from different departments.
+		4. cross cultural collaboration - it is the process of collaborating with people from different cultures.
