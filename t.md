@@ -1,5 +1,5 @@
 #what is Full Stack
-Full stack refers to a developer who is proficient in both front-end and back-end web development.Full stack developers are responsible for the entire development process, from the initial design to the final product.
+Full stack is a combination of front end and back end technologies. Full stack developers are responsible for both client and server-side development. They are proficient with HTML, CSS, and JavaScript on the client-side, and with Node.js, Python, Ruby, Java, .NET, PHP, and databases like MySQL or MongoDB on the server-side.
 
 #what is git?
 Git is a version control system that is used to track changes to files, particularly code. It is a distributed version control system, which means that it allows multiple developers to work on the same codebase simultaneously and merge their changes together
@@ -41,7 +41,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 #What is Node.js?
 Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.
 
-Node.js is widely used for building server-side applications, as well as command-line tools and utilities. It is also commonly used for building real-time applications, such as chat applications and online games, due to its ability to handle multiple connections concurrently.
+It is also commonly used for building real-time applications, such as chat applications and online games, due to its ability to handle multiple connections concurrently.
 
 node.js events:
 Node.js is an event-driven platform. Node.js works on the event loop model. It means that Node.js is always ready to perform a task and never waits for an event to occur. Node.js has multiple in-built events available through events module and EventEmitter class which are used to bind events and event-listeners as follows:
@@ -56,10 +56,6 @@ npm is a package manager for the JavaScript programming language. It is the defa
 
 #What is MySQL?
 MySQL is a free and open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) to manage and manipulate data stored in databases.
-
-applications of MySQL:
-1. MySQL is used for a wide range of applications, including data warehousing, e-commerce, logging applications, and many more.
-2. MySQL is a popular choice of database for use in web applications, and is a central component of the widely used LAMP open source web application software stack.
 
 Basic MySQL commands:
 1. CREATE DATABASE - creates a new database
