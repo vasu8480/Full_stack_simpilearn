@@ -187,4 +187,14 @@ Week-3
 		4. cross cultural collaboration - it is the process of collaborating with people from different cultures.
 
 	#without using I JAM
-	
+
+	#day4
+		#Why companies tell to collaborate?
+		- collaboration can lead to better problem-solving and decision-making. 
+		- Collaboration can also lead to increased productivity and efficiency. 
+		By working together, employees can share tasks and responsibilities, which can free up time and resources for other projects.
+		- Collaboration can also lead to increased innovation.
+	#example-
+		One real-world example of collaboration in the field of information technology (IT) is the development of the Linux operating system. Linux is an open-source operating system that is widely used in servers, desktops, and other devices. It is developed through a collaborative process that involves a global community of developers and users who contribute code, resources, and expertise to the project.
+
+The development of Linux is an example of how collaboration and the sharing of resources can lead to the creation of complex and powerful software systems. By allowing anyone to contribute to the development of the operating system, the Linux community has been able to build a robust and feature-rich operating system that is widely used around the world.
