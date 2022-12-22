@@ -198,3 +198,15 @@ Week-3
 		One real-world example of collaboration in the field of information technology (IT) is the development of the Linux operating system. Linux is an open-source operating system that is widely used in servers, desktops, and other devices. It is developed through a collaborative process that involves a global community of developers and users who contribute code, resources, and expertise to the project.
 
 The development of Linux is an example of how collaboration and the sharing of resources can lead to the creation of complex and powerful software systems. By allowing anyone to contribute to the development of the operating system, the Linux community has been able to build a robust and feature-rich operating system that is widely used around the world.
+
+Practice Golden Rules:
+1. Show up on time and come prepared. 
+2. Stay mentally and physically present.
+3. Contribute to meeting goals. (Follow the agenda)
+4. Let everyone participate. (Respect for Individuals & Practice Active Listening)
+5. Listen with an open mind. (Inclusive Environment)
+6. Think before speaking. (Its ok to Disagree, but sek first to understand and then to be understood)
+7. Stay on point and on time. (Be solution Focused)
+8. Attack the problem, not the person. (Assume Positive Intent)
+9. Make Notes (Record Action Items and Decisions / Follow-ups)
+10. Clarify if there are doubts - share notes 
