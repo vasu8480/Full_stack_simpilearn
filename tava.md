@@ -196,17 +196,43 @@ Week-3
 		- Collaboration can also lead to increased innovation.
 	#example-
 		One real-world example of collaboration in the field of information technology (IT) is the development of the Linux operating system. Linux is an open-source operating system that is widely used in servers, desktops, and other devices. It is developed through a collaborative process that involves a global community of developers and users who contribute code, resources, and expertise to the project.
+		The development of Linux is an example of how collaboration and the sharing of resources can lead to the creation of complex and powerful software systems. By allowing anyone to contribute to the development of the operating system, the Linux community has been able to build a robust and feature-rich operating system that is widely used around the world.
 
-The development of Linux is an example of how collaboration and the sharing of resources can lead to the creation of complex and powerful software systems. By allowing anyone to contribute to the development of the operating system, the Linux community has been able to build a robust and feature-rich operating system that is widely used around the world.
-
-Practice Golden Rules:
-1. Show up on time and come prepared. 
-2. Stay mentally and physically present.
-3. Contribute to meeting goals. (Follow the agenda)
-4. Let everyone participate. (Respect for Individuals & Practice Active Listening)
-5. Listen with an open mind. (Inclusive Environment)
-6. Think before speaking. (Its ok to Disagree, but sek first to understand and then to be understood)
-7. Stay on point and on time. (Be solution Focused)
-8. Attack the problem, not the person. (Assume Positive Intent)
-9. Make Notes (Record Action Items and Decisions / Follow-ups)
-10. Clarify if there are doubts - share notes 
+	#summary
+	#effective meetings:
+		1.Figure out if a meeting is necessary
+			It is important to carefully consider whether a meeting is necessary before scheduling one. Meetings can be a valuable way to discuss and make decisions, but they can also be time-consuming and disrupt workflows.
+		2.Ensure Only the Key People are Invited to the Meeting
+			When you are scheduling a meeting, it is important to ensure that only the key people are invited. This will help to ensure that the meeting is productive and that the right people are involved in the decision-making process.
+		3.Set Expectations with Meeting Attendees
+			Before the meeting, it is important to set expectations with the meeting attendees. By setting clear expectations, you can help ensure that meetings are productive and valuable for all attendees.
+		4.The meeting begins when you send out an invite
+			The process of scheduling and preparing for a meeting typically begins when you send out an invite to the attendees. This includes selecting a date and time that works for everyone, as well as determining the location and any necessary logistics.In addition to sending out the invite, you should also consider preparing any materials that will be needed for the meeting, such as an agenda or presentations. This will help ensure that the meeting is productive and efficient.
+		5.“Prewire” Meetings that involves Important and controversial Topics
+			Prewiring a meeting that involves important and controversial topics can help ensure that the meeting is productive and efficient. Prewiring involves preparing for the meeting in advance, including identifying the key points that need to be discussed and determining the best way to address them.
+		6.Actively Manage your Meetings
+			We need to keep the meeting on track from Start and end. Keep the discussion on track and avoid allowing the conversation to stray too far from the main topic.A well-planned agenda helps keep the meeting organized and on track. Keep a record of the key points discussed and any decisions made, and distribute the minutes to attendees after the meeting.
+		7.Agree on Next Steps During the Meeting
+			Make sure that everyone understands what needs to be done and why it is important.Determine who will be responsible for completing each task and any necessary deadlines.After the meeting, follow up with attendees to ensure that tasks are being completed as planned and to address any issues that may arise.
+	
+	#Golden Rules which we should follow in meeting 
+	1.Show up on time and come prepared: 
+		- It is important to show up on time and come prepared for the meeting. This includes reviewing the agenda and any materials that will be discussed in advance. This will help ensure that the meeting is productive and efficient.
+	2.Stay mentally and physically present:
+		- It is important to stay mentally and physically present during the meeting. This includes avoiding distractions, such as checking your phone or working on other tasks. This will help ensure that the meeting is productive and efficient.
+	3.Contribute to meeting goals:
+		- It is important to contribute to the meeting goals. This includes following the agenda and participating in the discussion. This will help ensure that the meeting is productive and efficient.
+	4.Let everyone participate:
+		- It is important to let everyone participate in the meeting. This includes respecting the opinions of others and practicing active listening. This will help ensure that the meeting is productive and efficient.
+	5.Listen with an open mind:
+		- It is important to listen with an open mind. This includes being inclusive and assuming positive intent. This will help ensure that the meeting is productive and efficient.
+	6.Think before speaking:
+		- It is important to think before speaking. This includes being solution focused and assuming positive intent. This will help ensure that the meeting is productive and efficient.
+	7.Stay on point and on time:
+		- It is important to stay on point and on time. This includes being solution focused and avoiding distractions. This will help ensure that the meeting is productive and efficient.
+	8.Attack the problem, not the person:
+		- It is important to attack the problem, not the person. This includes assuming positive intent and being solution focused. This will help ensure that the meeting is productive and efficient.
+	9.Make Notes:
+		- It is important to make notes during the meeting. This includes recording action items and decisions and following up on action items. This will help ensure that the meeting is productive and efficient.
+	10.Clarify if there are doubts - share notes:
+		- It is important to clarify if there are doubts. This includes being solution focused and assuming positive intent. This will help ensure that the meeting is productive and efficient.
