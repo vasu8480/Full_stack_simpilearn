@@ -249,3 +249,26 @@ Week-3
 			*i will see social media for 1hr.
 			*i will see technical videos for 2hrs.
 			*gym.
+
+
+		#absoultey need
+			*session of the course
+			*technical videos
+				- course assignment in the week
+			*assignment
+				-Technical
+					questions on the week schedule
+				-Soft skills
+				  -summary
+		#need
+			*health tips
+				-food and nutrition
+				-exercise
+			*social media
+			  -linkedin
+				-youtube
+				-instagram
+
+			*gym
+				-45min body building
+				-45min cardio
