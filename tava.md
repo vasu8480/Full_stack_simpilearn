@@ -241,4 +241,11 @@ Week-3
 #week-4
 	#day-1
 		#Time Management
-		- Time management is the process of planning and exercising conscious control over the amount of time spent on specific activities, especially to increase effectiveness, efficiency or productivity.
+			- Time management is the process of planning and exercising conscious control over the amount of time spent on specific activities, especially to increase effectiveness, efficiency or productivity.
+		
+		Time management of mine:
+			*i see some health tips in the morning.
+			*attend the session of the course.
+			*i will see social media for 1hr.
+			*i will see technical videos for 2hrs.
+			*gym.
