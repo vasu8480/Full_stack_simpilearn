@@ -236,3 +236,9 @@ Week-3
 		- It is important to make notes during the meeting. This includes recording action items and decisions and following up on action items. This will help ensure that the meeting is productive and efficient.
 	10.Clarify if there are doubts - share notes:
 		- It is important to clarify if there are doubts. This includes being solution focused and assuming positive intent. This will help ensure that the meeting is productive and efficient.
+
+
+#week-4
+	#day-1
+		#Time Management
+		- Time management is the process of planning and exercising conscious control over the amount of time spent on specific activities, especially to increase effectiveness, efficiency or productivity.
