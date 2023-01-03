@@ -344,3 +344,67 @@ Week-3
 		4.Not Important and Not Urgent
 			* Arrange the Drinks,Snacks and Water
 
+
+	[12:21 PM] guruprasadbhat42
+    College annual day program on 17th feb 2023
+1 Arrange the cultural program
+2 Invitations
+3 Sponsors
+4 Venue
+5 Refreshments
+ToDo List:
+  1 Arrange the cultural program
+CheckList:
+  * Budget
+  * Creat a team
+  * Anchoring and Speech
+  * Dance and music performances
+  * Stage decoration
+  * Catering Facility
+ToDo List:
+  2 Invitations
+CheckList:
+  * Teachers and principals, Committee Members
+  * Students and Parents
+  * Guests and Sponsors
+  * Police for security
+ToDo List:
+  3 Sponsors
+CheckList:
+  * Look at budget
+  * Media sponsers and Financial Sponsers
+  * Students
+  
+ToDo List:
+  4 Venue
+CheckList:
+  * Date and time for program
+  * Venue Availabity
+  * Sitting Arrangements
+  * Transport Facility
+ToDo List:
+  5 Refreshments
+CheckList:
+  * Morning Refreshments -> Tea coffee etc
+  * Afternoon -> Lunch
+  * Evening -> Snacks and drinks
+  * Night -> Dinner
+
+Important and Urgent
+      * Create a Budget
+      * Arrange the Venue
+      * Arrange the Refreshments
+      * Arrange the Sponsors
+      * Arrange the Invitations
+      * Arrange the Cultural Program
+Important but not Urgent
+      * Arrange the Parking
+      * Arrange the Security
+      * Arrange the Seating Arrangements
+      * Arrange the Stage
+Not Important but Urgent
+      * Arrange the Student Sponsors,Food Sponsors and Media Sponsors
+Not Important and Not Urgent
+      * Arrange the Drinks,Snacks and Water
+
+
