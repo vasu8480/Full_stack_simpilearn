@@ -274,8 +274,23 @@ Week-3
 				-45min cardio
 
 	#day-2
-		*Urgent and important
-			-attend the session of the course
-			-assignment
-			-technical videos
-			
+		1.Urgent and Important
+		* Attend the sessions
+		* Assignments
+		* Health Issues
+
+	2.Important not Urgent
+		* Technical Videos
+		* Excerise
+		* HouseHold works
+		* sleeping
+		* News
+
+	3.Not Important but Urgent
+		* Calls
+		* Helping
+
+	4.Not Important Not Urgent
+		* Movies
+		* Social Media
+		* chet chatting
