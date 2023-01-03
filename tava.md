@@ -272,3 +272,10 @@ Week-3
 			*gym
 				-45min body building
 				-45min cardio
+
+	#day-2
+		*Urgent and important
+			-attend the session of the course
+			-assignment
+			-technical videos
+			
