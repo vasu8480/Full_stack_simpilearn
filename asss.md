@@ -1,6 +1,4 @@
 #Create a document called Assignment for MongoDB
-  db.documents.insertOne({ "title": "Assignment" })
-
   db.createCollection("customers", {
   "customerid": 1,
   "customername": 1,
@@ -86,19 +84,16 @@ db.customers.insertMany([
   -db.customers.deleteMany({customername:{$in:["Cook","Bolt","Winston"]}})
 
 
+
+
 #PostgreSQL
-#Create a document called Assignment for PostgreSQL
-CREATE DATABASE assignment;
-
 CREATE TABLE customer (
-  customerid INTEGER PRIMARY KEY,
-  customername TEXT NOT NULL,
-  address TEXT NOT NULL,
-  customertype TEXT NOT NULL,
-  status BOOLEAN NOT NULL,
-  CHECK (customertype IN ('gold', 'silver', 'guest'))
+  customerid TEXT NOT NULL PRIMARY KEY,
+  customername TEXT,
+  address TEXT,
+  customertype TEXT,
+  status TEXT 
 );
-
 INSERT INTO customer (customerid, customername, address, customertype, status)
 VALUES 
 ('C00013', 'Holmes', 'London','gold','active'),
