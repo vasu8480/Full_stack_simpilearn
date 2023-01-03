@@ -275,22 +275,72 @@ Week-3
 
 	#day-2
 		1.Urgent and Important
-		* Attend the sessions
-		* Assignments
-		* Health Issues
+			* Attend the sessions
+			* Assignments
+			* Health Issues
 
-	2.Important not Urgent
-		* Technical Videos
-		* Excerise
-		* HouseHold works
-		* sleeping
-		* News
+		2.Important not Urgent
+			* Technical Videos
+			* Excerise
+			* HouseHold works
+			* sleeping
+			* News
 
-	3.Not Important but Urgent
-		* Calls
-		* Helping
+		3.Not Important but Urgent
+			* Calls
+			* Helping
 
-	4.Not Important Not Urgent
-		* Movies
-		* Social Media
-		* chet chatting
+		4.Not Important Not Urgent
+			* Movies
+			* Social Media
+			* chet chatting
+		
+		#College annual day program on 17th feb 2023
+			1 Arrange the cultural program
+				- dance
+				- music
+				- drama
+				- skit
+				- fashion show
+				- singing
+			2 Invitations
+				- invite the guests
+				- invite the students
+				- invite the staffs
+				- invite the sponsors
+
+			3 Sponsors
+				- media sponsors
+				- food sponsors
+				- Student sponsors
+
+			4 Venue
+			 - stage
+			 - seating arrangements
+			 - sound system
+			 - lights
+			 - food stalls
+			 - parking
+			 - security
+
+			5 Refreshments
+				- food
+				- water
+				- snacks
+				- drinks
+
+		1.Important and Urgent
+			* Create a Budget
+			* Arrange the Venue,Refreshments
+			* Arrange the Sponsors,Invitations
+			* Arrange the Cultural Program
+
+		2.Important but not Urgent
+			* Arrange the Parking, Security,Seating Arrangements and Stage
+
+		3.Not Important but Urgent
+			* Arrange the Student Sponsors,Food Sponsors and Media Sponsors
+
+		4.Not Important and Not Urgent
+			* Arrange the Drinks,Snacks and Water
+
