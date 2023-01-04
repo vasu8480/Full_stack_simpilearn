@@ -356,4 +356,21 @@ Week-3
 						* Arrange the Drinks,Snacks and Water
 		
 		#day-3
+			* set reaminders for alll your tasks
+			  - notifiaction
+				- set priority for all your task
 
+			* set daily planier
+			  - set your daily goals
+				- set your daily 
+				- set your weekly goals
+			
+			*give each task a time limit
+			  - create a time limit for each task
+
+			*block out distractions
+			  - find a place where you can work without distractions
+				- mindfulness- Taking a few minutes to practice mindfulness, such as through meditation or 	deep breathing, can help you stay focused and grounded.
+
+			*Establish a routine
+			  - set a routine for your daily work
