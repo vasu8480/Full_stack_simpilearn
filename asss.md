@@ -94,6 +94,7 @@ CREATE TABLE customer (
   customertype TEXT,
   status TEXT 
 );
+
 INSERT INTO customer (customerid, customername, address, customertype, status)
 VALUES 
 ('C00013', 'Holmes', 'London','gold','active'),

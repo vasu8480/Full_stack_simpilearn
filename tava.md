@@ -356,6 +356,7 @@ Week-3
 						* Arrange the Drinks,Snacks and Water
 		
 		#day-3
+			#5 Tips for Time Management
 			* set reaminders for alll your tasks
 			  - notifiaction
 				- set priority for all your task
