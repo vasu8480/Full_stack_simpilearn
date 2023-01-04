@@ -1,13 +1,5 @@
 #Create a document called Assignment for MongoDB
-  db.createCollection("customers", {
-  "customerid": 1,
-  "customername": 1,
-  "address": 1,
-  "customertype": 1,
-  "status": 1
-})
-
-
+  db.createCollection("customers")
 
 db.customers.insertMany([
   { "customerid": "C00013", "customername": "Holmes", "address": "London", "customertype": "gold", "status": "active" },
