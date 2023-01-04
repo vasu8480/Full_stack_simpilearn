@@ -295,56 +295,6 @@ Week-3
 			* Social Media
 			* chet chatting
 		
-		#College annual day program on 17th feb 2023
-			1 Arrange the cultural program
-				- dance
-				- music
-				- drama
-				- skit
-				- fashion show
-				- singing
-			2 Invitations
-				- invite the guests
-				- invite the students
-				- invite the staffs
-				- invite the sponsors
-
-			3 Sponsors
-				- media sponsors
-				- food sponsors
-				- Student sponsors
-
-			4 Venue
-			 - stage
-			 - seating arrangements
-			 - sound system
-			 - lights
-			 - food stalls
-			 - parking
-			 - security
-
-			5 Refreshments
-				- food
-				- water
-				- snacks
-				- drinks
-
-		1.Important and Urgent
-			* Create a Budget
-			* Arrange the Venue,Refreshments
-			* Arrange the Sponsors,Invitations
-			* Arrange the Cultural Program
-
-		2.Important but not Urgent
-			* Arrange the Parking, Security,Seating Arrangements and Stage
-
-		3.Not Important but Urgent
-			* Arrange the Student Sponsors,Food Sponsors and Media Sponsors
-
-		4.Not Important and Not Urgent
-			* Arrange the Drinks,Snacks and Water
-
-
 		College annual day program on 17th feb 2023
 			1 Arrange the cultural program
 			2 Invitations
@@ -391,19 +341,19 @@ Week-3
 
 			Important and Urgent
 						* Create a Budget
-						* Arrange the Venue
-						* Arrange the Refreshments
-						* Arrange the Sponsors
+						* Arrange the Venue, Refreshments and Sponsors
 						* Arrange the Invitations
-						* Arrange the Cultural Program
+						* Arrange the Student Sponsors,Food Sponsors and Media Sponsors 
 			Important but not Urgent
 						* Arrange the Parking
 						* Arrange the Security
 						* Arrange the Seating Arrangements
-						* Arrange the Stage
+						* Arrange the Stage and Program
 			Not Important but Urgent
-						* Arrange the Student Sponsors,Food Sponsors and Media Sponsors
+						* Decide the Date and Time
+						* Arrange the Anchoring and Speech
 			Not Important and Not Urgent
 						* Arrange the Drinks,Snacks and Water
-
+		
+		#day-3
 
