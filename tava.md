@@ -375,3 +375,15 @@ Week-3
 
 			*Establish a routine
 			  - set a routine for your daily work
+
+		#day-4
+			sell a wallet to millennials.
+			*customer needs
+			*need of the wallet
+			*wallet features
+			*tech-friendly
+			*uniqueness
+			*fair-trade
+			*social media/websites
+			*customer reviews
+
