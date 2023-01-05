@@ -386,4 +386,4 @@ Week-3
 			*fair-trade
 			*social media/websites
 			*customer reviews
-
+			*customer feedback
