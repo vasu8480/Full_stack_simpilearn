@@ -390,4 +390,10 @@ Week-3
 
 	#week-5
 		#day-1
-			#
+			#customer experience
+				- Customer experience is the sum of all experiences a customer has with a brand, both positive and negative, across all touchpoints. It is the customer's perception of their interaction with a brand.
+		
+		#day-2
+			#Critical Thinking
+				- Critical thinking is the objective analysis and evaluation of an issue in order to form a judgment. The subject is complex, and several different definitions exist, which generally include the rational, skeptical, unbiased analysis, or evaluation of factual evidence.
+			
