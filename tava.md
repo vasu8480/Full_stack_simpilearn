@@ -458,4 +458,18 @@ Week-3
 					Rice is a staple food in many cultures around the world and can be a vital source of nourishment for people living in food-insecure areas.
 			
 		#day-3
-			#
+			#use cases of ujala superem Fabric Whitener
+				- used in holi
+				- use to keep soaps and detergents clean
+				- used to plant seeds
+
+			#how to use Audio casette Tape for multi-purpose
+				-Art and crafts: Audio cassette tapes can be used for creative projects, such as making 	 jewelry, wall art, ornaments, and other decorative items.
+				
+				-Engineering and Robotics: Audio cassette tapes can be used in some engineering and robotics projects, where the magnetic tape can be used as a sensor or a triggering mechanism.
+				
+				-Home repairs: Audio cassette tape can be used as a makeshift or temporary fix, such as wrapping it around a frayed electrical cord to hold the wires together.
+				
+				-Fashion Wear: Audio cassette tapes can be used to make fashion accessories, such as bracelets, necklaces, and earrings.
+				
+				-Tape art: Audio cassette tapes can be used to create unique and visually interesting pieces of art, such as sculpture, collages, and mixed media pieces.
