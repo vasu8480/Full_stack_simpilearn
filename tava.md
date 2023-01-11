@@ -473,3 +473,13 @@ Week-3
 				-Fashion Wear: Audio cassette tapes can be used to make fashion accessories, such as bracelets, necklaces, and earrings.
 				
 				-Tape art: Audio cassette tapes can be used to create unique and visually interesting pieces of art, such as sculpture, collages, and mixed media pieces.
+				
+				-Audio cassette tapes can be used to make a musical instrument.
+
+				-Audio cassette tapes can be used to make a pin.
+
+				-Audio cassette tapes can be used to make a lampshade
+
+				-Audio cassette tapes can be used to make bookmarks.
+
+				-
