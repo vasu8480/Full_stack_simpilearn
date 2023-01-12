@@ -1,16 +1,16 @@
 <form id="registration-form">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>
-  
+
   <label for="email">Email:</label>
   <input type="email" id="email" name="email" required>
-  
+
   <label for="password">Password:</label>
   <input type="password" id="password" name="password" required>
-  
+
   <label for="confirm-password">Confirm Password:</label>
   <input type="password" id="confirm-password" name="confirm-password" required>
-  
+
   <label for="event-type">Event Type:</label>
   <select id="event-type" name="event-type" required>
     <option value="solo">Solo</option>
@@ -29,25 +29,17 @@
   var passwordInput = document.getElementById("password");
   var eventTypeInput = document.getElementById("event-type");
   var groupMembersDiv = document.getElementById("group-members-div");
-  eventTypeInput.addEventListener("change", function() {
+  eventTypeInput.addEventListener("change", function () {
     if (eventTypeInput.value === "group") {
       groupMembersDiv.style.display = "block";
     } else {
       groupMembersDiv.style.display = "none";
     }
   });
-  form.addEventListener("submit", function(event) {
+  form.addEventListener("submit", function (event) {
     event.preventDefault();
     var groupMembersInput = document.getElementById("group-members");
-    var specialCharacter = /[!@#$%^&*(),.?":{}|<>]/;
-    if (passwordInput.value.length < 8) {
-        alert("Password must be at least 8 characters.");
-        return;
-    }
-    if(!specialCharacter.test(passwordInput.value)){
-        alert("Password must contain at least 1 special character.");
-        return;
-    }
+
     if (eventTypeInput.value === "group" && (!groupMembersInput.value || groupMembersInput.value < 2)) {
       alert("Please enter the number of members in group");
       return;
