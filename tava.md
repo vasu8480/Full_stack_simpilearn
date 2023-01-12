@@ -483,4 +483,14 @@ Week-3
 				-Audio cassette tapes can be used to make bookmarks.
 
 		#Day-4
-			#
+			#You have made 50% progress in the design of the project; you realize that something has not gone as predicted and the initial testing of the code has failed.The roadblock during this phase of the project means that you have lost 5 days, even though you thought you had a head start. The code must be tested before the Launch, for which you are left with.
+
+				1. Identify the problem and make a plan of action to fix it.
+				2. Re-evaluate the requirements and design and gather the resources
+				3. Implement agile development methods
+				4. Take help of expertise team members
+				5. Focus on critical features
+				6. Re-test the code
+				7. Ask for time extension
+			
+		
